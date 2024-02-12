@@ -1,0 +1,5 @@
+# ignore builds folder
+./cpp-projects/builds/
+
+# ignore all .txt files
+./cpp-projects/*.txt
